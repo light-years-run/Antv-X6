@@ -6,7 +6,9 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 - [VS Code](https://code.visualstudio.com/) 
 
-## Type Support For `.vue` Imports in TS
+## 功能概述
+
+联系方式 WeChat： 676750993
 
 1. Command
    1. npm run i 
@@ -14,4 +16,5 @@ This template should help get you started developing with Vue 3 and TypeScript i
 2. 功能区预览
 ![输入图片说明](image.png)
 ![输入图片说明](image2.png)
+
 3.联系方式 WeChat： 676750993
